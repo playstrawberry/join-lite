@@ -1,0 +1,3 @@
+description=Ligne d'arrivée : les lignes d'arrivée et de départ propres au serveur.
+data_error=join-lite n'a pas pu lire join.txt ou quit.txt. Chacun contient une seule ligne de 512 octets au plus ; corrigez le fichier, puis rechargez le plugin.
+save_error=join-lite n'a pas pu créer join.txt et quit.txt dans son dossier de données.

@@ -1,0 +1,15 @@
+[package]
+name = "sp-pages"
+version = "0.1.0"
+edition = "2024"
+description = "Strawberry library: a text the server owner writes, shown to a player in pages (the one implementation behind /rules, /info and /news)."
+authors = ["Strawberry Interactive LLC"]
+license = "LicenseRef-Strawberry-Source-Available-1.0"
+publish = false
+
+[dependencies]
+sp-lang = { path = "../sp-lang" }
+strawberry-plugin-api = { version = "=0.2.2", registry = "strawberry" }
+
+[lints]
+workspace = true

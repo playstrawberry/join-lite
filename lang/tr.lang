@@ -1,0 +1,3 @@
+description=Join satırı: server'ın kendi giriş ve çıkış satırları.
+data_error=join-lite join.txt veya quit.txt dosyasını okuyamadı. Her biri en fazla 512 baytlık tek bir satır içerir; dosyayı düzelt, sonra plugini yeniden yükle.
+save_error=join-lite veri klasöründe join.txt ve quit.txt dosyalarını oluşturamadı.

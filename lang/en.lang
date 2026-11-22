@@ -1,0 +1,3 @@
+description=Join line: the server's own join and quit lines.
+data_error=join-lite could not read join.txt or quit.txt. Each holds one line of at most 512 bytes; fix the file, then reload the plugin.
+save_error=join-lite could not create join.txt and quit.txt in its data folder.
